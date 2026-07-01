@@ -8,3 +8,6 @@ https://colab.research.google.com/drive/17hvhD7IHvUtgwK3RUni1NpgsyCoKDI1_?usp=sh
 
 Activity 2.2 
 https://colab.research.google.com/drive/1Bi-bm5TjIT73BJC3cvJrffHeyprU3OLS?usp=sharing
+
+Week2 recap
+https://colab.research.google.com/drive/1pkouXyoHaTdCylNR6fmVM4zOUouODnF7?usp=sharing
