@@ -1,2 +1,5 @@
 Link Lab4 COLAB
 https://colab.research.google.com/drive/1VoXf8U-PkAynoSg7OeB-nIPX3ZUmRu0z?usp=sharing
+
+Week4 Recap
+https://colab.research.google.com/drive/1oLw-0JMuMEQGkPW-S0crjqt-mPYWLfiY?usp=sharing
